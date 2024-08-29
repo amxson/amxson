@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
 <h3 align="center">A Fullstack Developer</h3>
 <div align="center">
-  <a href="https://github.com/YosephSE">
+  <a href="https://github.com/amxson">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=amxson&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
   </a>
 </div>
