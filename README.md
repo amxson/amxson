@@ -6,7 +6,7 @@
   </a>
 </div>
   
-- 🔭 I’m currently working on hotel managment system
+- 🔭 I’m currently working on CURALINK
 - 🌱 I’m currently learning typescript
 - 👨‍💻 All of my projects are available  [)
 - 📫 How to reach me **amarasfaw1077@gmail.com**
