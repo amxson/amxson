@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoseph</h1>
+<h1 align="center">Hi 👋, I'm Amar Asfaw</h1>
 <h3 align="center">A Fullstack Developer</h3>
 <div align="center">
   <a href="https://github.com/amxson">
