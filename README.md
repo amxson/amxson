@@ -5,7 +5,7 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=amxson&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox">
   </a>
 </div>
-  
+
 - 🔭 I’m currently working on **CURALINK**
 - 🌱 I’m currently learning **TypeScript**
 - 👨‍💻 All of my projects are available [here](http://yosephk.me)
@@ -20,23 +20,22 @@
 
 </p>
 
-<div style="width: 100%; align:center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/amxson?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%; height: 150px;">
   </a>
-   <a href="https://github.com/amxson?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%;">
+  <a href="https://github.com/amxson?tab=repositories">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" style="width: 48%; height: 150px;">
   </a>
-  
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amxson&show_icons=true&locale=en&layout=compact&theme=dark" alt="amxson" width='33%' height="150px"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amxson&theme=2077" width='30%' height="150px"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amxson&theme=2077" width='30%' height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amxson&show_icons=true&locale=en&layout=compact&theme=dark" alt="amxson" width="30%" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amxson&theme=2077" width="30%" height="150px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amxson&theme=2077" width="30%" height="150px"/>
 </div>
 
-<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center; width: 100%; margin: 0 auto;">
-    <img src="https://github-readme-stats.vercel.app/api?username=amxson&show_icons=true&locale=en&theme=dark" alt="amxson" style="width: 45%; margin-bottom: 20px;" height="150em" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amxson&theme=dark" alt="amxson" style="width: 45%;" height="150em" />
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=amxson&show_icons=true&locale=en&theme=dark" alt="amxson" style="width: 48%; height: 150px; margin-bottom: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amxson&theme=dark" alt="amxson" style="width: 48%; height: 150px;" />
 </div>
