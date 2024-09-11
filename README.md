@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amar Asfaw</h1>
+<h1 align="center">Hi 👋, I'm Yoseph</h1>
 <h3 align="center">A Fullstack Developer</h3>
 <div align="center">
   <a href="https://github.com/amxson">
@@ -6,19 +6,22 @@
   </a>
 </div>
   
-- 🔭 I’m currently working on **CURALINK**
-- 🌱 I’m currently learning **TypeScript**
-- 👨‍💻 All of my projects are available [here](http://yosephk.me)
+- 🔭 I’m currently working on CURALINK
+- 🌱 I’m currently learning typescript
+- 👨‍💻 All of my projects are available  [)
 - 📫 How to reach me **amarasfaw1077@gmail.com**
-- 📄 Know about my experiences [here](http://yosephk.me)
+- 📄 Know about my experiences [)
+
 
 <h3 align="left" style="">Connect with me:</h3>
 <p align="left" style="display: flex">
 
-<a href="https://www.linkedin.com/in/amar-asfaw-113010209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-asfaw" height="30" width="40" /></a>
-<a href="https://t.me/amx08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="amx08" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/amar-asfaw-113010209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoseph-kedir" height="30" width="40" /></a>
+<a href="https://t.me/amx08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="joseulx" height="40" width="40" /></a>
+
 
 </p>
+
 
 <div style="width: 100%; align:center;">
   <a href="https://github.com/amxson?tab=repositories">
