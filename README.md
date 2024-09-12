@@ -6,22 +6,22 @@
   </a>
 </div>
   
-- 🔭 I’m currently working on CURALINK
-- 🌱 I’m currently learning typescript
-- 👨‍💻 All of my projects are available  [)
-- 📫 How to reach me **amarasfaw1077@gmail.com**
-- 📄 Know about my experiences [)
-
+- 🔭 I’m currently working on [Members Management System](https://github.com/classic-CRMs/)
+- 🌱 I’m currently learning **Next.js**
+- 👨‍💻 All of my projects are available at [http://amxson.me](http://amxson.me)
+- 📫 How to reach me **amar.asfaw1077@gmail.com**
+- 📄 Know about my experiences [http://amxson.me](http://amxson.me)
 
 <h3 align="left" style="">Connect with me:</h3>
 <p align="left" style="display: flex">
 
-<a href="https://www.linkedin.com/in/amar-asfaw-113010209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yoseph-kedir" height="30" width="40" /></a>
-<a href="https://t.me/amx08" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="joseulx" height="40" width="40" /></a>
-
+<a href="https://linkedin.com/in/amar-asfaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amar-asfaw" height="30" width="40" /></a>
+<a href="https://t.me/amxson" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="amxson" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/amar_asfaw1077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/amar_asfaw1077" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/amar-asfaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amar-asfaw/" height="30" width="40" /></a>
+<a href="https://twitter.com/amarasfaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarasfaw" height="30" width="40" /></a>
 
 </p>
-
 
 <div style="width: 100%; align:center;">
   <a href="https://github.com/amxson?tab=repositories">
