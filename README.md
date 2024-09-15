@@ -6,8 +6,8 @@
   </a>
 </div>
   
-- 🔭 I’m currently working on [Members Management System](https://github.com/classic-CRMs/)
-- 🌱 I’m currently learning **Next.js**
+- 🔭 I’m currently working on CuraLink
+- 🌱 I’m currently learning Typescript
 - 👨‍💻 All of my projects are available at [http://amxson.me](http://amxson.me)
 - 📫 How to reach me **amar.asfaw1077@gmail.com**
 - 📄 Know about my experiences [http://amxson.me](http://amxson.me)
