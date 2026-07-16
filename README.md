@@ -1,99 +1,45 @@
+<!-- markdownlint-disable MD013 MD033 -->
+
+<h1 align="center">Hi 👋, I'm Amar Asfaw</h1>
+<h3 align="center">AI Engineer / Full-Stack Developer</h3>
+<p align="center">I build AI-powered tools, backend systems, and full-stack applications.</p>
+
 <div align="center">
-
-# Hi, I'm Amar Asfaw 👋
-
-### AI Engineer / Full-Stack Developer
-
-I build AI-powered tools, backend systems, and full-stack applications that turn complex ideas into practical, reliable products.
-
-[Portfolio](https://amar-asfaw.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amar-asfaw-/) · [Resume](https://drive.google.com/file/d/1HRQhpjMBseGPf1mS5Ty8i9A_-fSLkXEV/view?usp=sharing) · [Email](mailto:amarasfaw1077@gmail.com)
-
+  <a href="https://github.com/amxson">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=amxson&data=followers,repositories,stars,commits&theme=viridescent" alt="Dynamic GitHub profile statistics for Amar Asfaw" />
+  </a>
 </div>
 
-## About
+- 🔭 I’m currently building AI agents and full-stack products
+- 🧠 My current focus is AI agents, backend systems, and practical software engineering
+- 👨‍💻 View my [portfolio](https://amar-asfaw.vercel.app)
+- 📫 Reach me: [amarasfaw1077@gmail.com](mailto:amarasfaw1077@gmail.com)
+- 📄 View my [resume](https://drive.google.com/file/d/1HRQhpjMBseGPf1mS5Ty8i9A_-fSLkXEV/view?usp=sharing)
 
-I'm a software engineer focused on building AI-powered and full-stack products that are practical, reliable, and easy to use. My work spans AI agents, backend systems, automation, APIs, and modern web applications.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/amar-asfaw-/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" /></a>
+  <a href="https://amar-asfaw.vercel.app"><img align="center" src="https://cdn.simpleicons.org/vercel/888888" alt="Portfolio website" height="30" width="40" /></a>
+  <a href="mailto:amarasfaw1077@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email Amar Asfaw" height="30" width="40" /></a>
+  <a href="https://github.com/amxson"><img align="center" src="https://cdn.simpleicons.org/github/888888" alt="GitHub profile" height="30" width="40" /></a>
+  <a href="https://drive.google.com/file/d/1HRQhpjMBseGPf1mS5Ty8i9A_-fSLkXEV/view?usp=sharing"><img align="center" src="https://cdn.simpleicons.org/googledrive/4285F4" alt="Resume on Google Drive" height="30" width="40" /></a>
+</p>
 
-At iCog Labs, I work on AI agents and software solutions, turning technical concepts into working features through backend logic, testing, automation, and iteration. Before that, I contributed to full-stack development through GO PLATFORM and DirectEd, working across frontend interfaces, backend services, debugging, and collaborative development workflows.
+<div align="center">
+  <a href="https://github.com/amxson?tab=repositories">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="Languages and software used by Amar Asfaw" width="49%" />
+  </a>
+  <a href="https://github.com/amxson?tab=repositories">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="Frameworks and development tools used by Amar Asfaw" width="49%" />
+  </a>
+</div>
 
-Outside of work, I continue building products including EasyBid, CuraLink, Blog Blast, and an AI Customer Support Agent.
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amxson&theme=2077" alt="Top languages by commit" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amxson&theme=2077" alt="Top languages by repository" width="49%" />
+</div>
 
-## Selected Work
-
-### [iCog Labs](https://icog-labs.com/) — AI Engineer
-
-Developing AI agents and software solutions across backend logic, APIs, automation, testing, and practical implementation.
-
-### GO PLATFORM — Full-Stack Developer
-
-Contributed to frontend and backend development, debugging, Git-based collaboration, and product implementation workflows.
-
-### [DirectEd](https://directed.dev/) — Full-Stack Developer
-
-Built individual and collaborative web applications using frontend, backend, Python, and Git-based development workflows.
-
-## Featured Projects
-
-### [EasyBid](https://easybid.vercel.app/)
-
-A full-stack auction platform where users can register as bidders or auctioneers, publish auction items, place bids, and manage role-based auction and payment workflows.
-
-`React` · `JavaScript` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs`
-
-[Live application](https://easybid.vercel.app/) · [Source code](https://github.com/amxson/EasyBid)
-
-### [CuraLink](https://migbare-senay.vercel.app/) — Collaborative Project
-
-A MERN-stack healthcare platform with separate workflows for administrators, doctors, and patients, including appointment scheduling, doctor applications, notifications, authentication, profile management, and dashboards.
-
-`React` · `TypeScript` · `Redux` · `Node.js` · `Express.js` · `MongoDB` · `JWT`
-
-[Live application](https://migbare-senay.vercel.app/) · [Source code](https://github.com/amxson/CURALINK)
-
-### [Blog Blast](https://blog-blast.vercel.app/) — Collaborative Project
-
-A React and Vite blog application for creating, editing, deleting, filtering, liking, and commenting on posts with browser-based data persistence.
-
-`React` · `Vite` · `JavaScript` · `CSS` · `React Router` · `Local Storage`
-
-[Live application](https://blog-blast.vercel.app/) · [Source code](https://github.com/amxson/Blog_Blast)
-
-### [AI Customer Support Agent](https://github.com/amxson/crewai-customer-support-agent)
-
-A multi-agent customer-support workflow that coordinates specialized agents to analyze requests, retrieve relevant information, and generate useful responses.
-
-`Python` · `CrewAI` · `AI Agents` · `Prompt Engineering`
-
-[Source code](https://github.com/amxson/crewai-customer-support-agent)
-
-## Technologies
-
-### Languages
-
-`Python` · `JavaScript` · `TypeScript` · `SQL` · `C++` · `Java` · `Bash`
-
-### Frontend
-
-`React` · `Next.js` · `Vue.js` · `React Native` · `HTML` · `CSS` · `Tailwind CSS`
-
-### Backend
-
-`Node.js` · `Express.js` · `FastAPI` · `Flask` · `REST APIs`
-
-### Databases and Services
-
-`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
-
-### AI and Computer Science
-
-`AI Agents` · `Prompt Engineering` · `Data Structures` · `Algorithms` · `Competitive Programming` · `Problem Solving` · `Object-Oriented Programming`
-
-### Tools
-
-`Git` · `GitHub` · `Docker` · `Vite` · `VS Code`
-
-## Connect
-
-I'm open to AI engineering, full-stack development, software projects, and collaborative opportunities.
-
-[Portfolio](https://amar-asfaw.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amar-asfaw-/) · [Resume](https://drive.google.com/file/d/1HRQhpjMBseGPf1mS5Ty8i9A_-fSLkXEV/view?usp=sharing) · [Email](mailto:amarasfaw1077@gmail.com)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amxson&theme=2077" alt="GitHub contribution statistics" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=amxson&theme=dark" alt="Current and longest GitHub contribution streaks" width="49%" />
+</div>
