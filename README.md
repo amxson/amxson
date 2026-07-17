@@ -14,7 +14,7 @@
 - 🧠 My current focus is AI agents, backend systems, and practical software engineering
 - 👨‍💻 View my [portfolio](https://amar-asfaw.vercel.app)
 - 📫 Reach me: [amarasfaw1077@gmail.com](mailto:amarasfaw1077@gmail.com)
-- 📄 View my [resume](https://drive.google.com/file/d/1HRQhpjMBseGPf1mS5Ty8i9A_-fSLkXEV/view?usp=sharing)
+- 📄 View my [resume](https://drive.google.com/file/d/190-UQF_V5idpMj6x3dSxudD2w4u77L-D/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
