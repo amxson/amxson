@@ -1,45 +1,28 @@
-<!-- markdownlint-disable MD013 MD033 -->
+# Amar Asfaw
 
-<h1 align="center">Hi 👋, I'm Amar Asfaw</h1>
-<h3 align="center">AI Engineer / Full-Stack Developer</h3>
-<p align="center">I build AI-powered tools, backend systems, and full-stack applications.</p>
+**AI engineering · backend systems · full-stack development**
 
-<div align="center">
-  <a href="https://github.com/amxson">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=amxson&data=followers,repositories,stars,commits&theme=viridescent" alt="Dynamic GitHub profile statistics for Amar Asfaw" />
-  </a>
-</div>
+I work across model internals and the applications around them: implementing learning algorithms, building inference services, and connecting APIs to usable interfaces. My repositories include both focused learning experiments and larger application projects.
 
-- 🔭 I’m currently building AI agents and full-stack products
-- 🧠 My current focus is AI agents, backend systems, and practical software engineering
-- 👨‍💻 View my [portfolio](https://amar-asfaw.vercel.app)
-- 📫 Reach me: [amarasfaw1077@gmail.com](mailto:amarasfaw1077@gmail.com)
-- 📄 View my [resume](https://drive.google.com/file/d/190-UQF_V5idpMj6x3dSxudD2w4u77L-D/view?usp=sharing)
+[Portfolio](https://amar-asfaw.vercel.app) · [LinkedIn](https://www.linkedin.com/in/amar-asfaw-/) · [Email](mailto:amarasfaw1077@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/amar-asfaw-/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn profile" height="30" width="40" /></a>
-  <a href="https://amar-asfaw.vercel.app"><img align="center" src="https://cdn.simpleicons.org/vercel/888888" alt="Portfolio website" height="30" width="40" /></a>
-  <a href="mailto:amarasfaw1077@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email Amar Asfaw" height="30" width="40" /></a>
-  <a href="https://github.com/amxson"><img align="center" src="https://cdn.simpleicons.org/github/888888" alt="GitHub profile" height="30" width="40" /></a>
-  <a href="https://drive.google.com/file/d/1HRQhpjMBseGPf1mS5Ty8i9A_-fSLkXEV/view?usp=sharing"><img align="center" src="https://cdn.simpleicons.org/googledrive/4285F4" alt="Resume on Google Drive" height="30" width="40" /></a>
-</p>
+## Selected work
 
-<div align="center">
-  <a href="https://github.com/amxson?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,bash,json,yaml,postgresql,mysql,powershell,markdown&software=linux,windows,vscode&includeNames=true&theme=viridescent" alt="Languages and software used by Amar Asfaw" width="49%" />
-  </a>
-  <a href="https://github.com/amxson?tab=repositories">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,wordpress,vercel,redis,nodejs,heroku,aws,prettier&frameworks=react,next,bootstrap,tailwind,express&includeNames=true&theme=viridescent" alt="Frameworks and development tools used by Amar Asfaw" width="49%" />
-  </a>
-</div>
+| Project | Engineering focus |
+| --- | --- |
+| [LLM Inference Runtime](https://github.com/amxson/llm-inference-runtime) | Language-model inference systems |
+| [EasyBid](https://github.com/amxson/EasyBid) | Auction bidding, transactional updates, account recovery, and role-based access |
+| [ResolveAI Support Platform](https://github.com/amxson/resolveai-support-platform) | Support-ticket triage and review, with a no-key demo and an optional AI workflow |
+| [AI Inference over gRPC](https://github.com/amxson/ai-inference-grpc) | Four RPC patterns, bounded streaming requests, and a replaceable inference adapter |
+| [GPT from Scratch](https://github.com/amxson/gpt-from-scratch-shakespeare) | A character-level decoder Transformer implemented in PyTorch |
+| [Amharic Word Embeddings](https://github.com/amxson/amharic-word-embeddings-from-scratch) | Skip-gram, manual gradients, numerical checks, and reproducible experiments |
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amxson&theme=2077" alt="Top languages by commit" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amxson&theme=2077" alt="Top languages by repository" width="49%" />
-</div>
+ResolveAI uses fictional support data. The model projects are small experiments intended to make the underlying algorithms inspectable.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amxson&theme=2077" alt="GitHub contribution statistics" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=amxson&theme=dark" alt="Current and longest GitHub contribution streaks" width="49%" />
-</div>
+## Tools I use
+
+**Models and data:** Python, PyTorch, NumPy, scikit-learn  
+**Services:** FastAPI, Node.js, Express, gRPC, PostgreSQL, MongoDB  
+**Interfaces and delivery:** React, TypeScript, Docker, GitHub Actions, Vercel
+
+I keep setup instructions, tests, and known limitations close to the code. Coursework and early exercises remain separate from the projects featured above.
